@@ -1,0 +1,35 @@
+---
+title: Contact Information & Credits
+---
+
+<br>
+
+:::: {.columns}
+::: {.column width="40%"}
+
+**Contact by**: 
+
+- Linkedin: <a href="https://www.linkedin.com/in/jose-alirio-mendoza-mesa-3b3798239/" target="_blank">Jose Mendoza</a>
+- Email: jose.alirio.mm@gmail.com
+
+**Related websites:**
+
+- <a href="https://www.sophicol.org/" target="_blank">SoPhIC</a>
+- <a href="https://www.dusselier-lab.org/the-team" target="_blank">Dusselier lab</a>
+- <a href="https://scholar.google.com/citations?user=Qt5ZqzgAAAAJ&hl=it" target="_blank">Google scholar</a>
+
+**Credits:**
+
+- **Content Design:** José Alirio Mendoza
+- **Web Development:** <a href="mailto:jsmendozap@gmail.com" target="_blank">Juan Mendoza</a>
+- **Photography:** <a href="https://www.linkedin.com/in/thomas-narmon-25958518b/" target="_blank">Thomas Narmon</a>
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+<center>
+![](media/pubs.jpg){.margin-photo}
+</center>
+:::

@@ -1,0 +1,257 @@
+---
+title: Work experience
+toc: true
+---
+<br>
+
+## Key Achievements
+
+
+### Research & Innovation
+
+<br>
+
+::: {.justify}
+
+- **Developed a novel impregnation strategy** to enhance material dispersion, improving activity and stability in a bifunctional catalyst for propane dehydrogenation (in progress). 
+
+- **Applied statistical box-and-whisker tools** to assess time-on-stream reaction behavior— a unique approach in catalysis for evaluating reaction stability (in progress). 
+
+- **Contributed to the development of automated reaction analysis software** using advanced chemometrics. 
+
+::: {.phrase}
+*(Project: D2M2, KU Leuven, 2024)*
+:::
+
+<br>
+
+- **Optimized a sustainable pathway** for p-Xylene production, contributing to green chemistry
+
+::: {.phrase}
+*(Max Planck Internship, 2019)*
+:::
+
+<br>
+
+- **Designed a new family of mesoporous zeolites** with high aluminum content. 
+
+- **Standardized a material characterization technique** based on the sequential analysis of trisopropylbenzene cracking, documented as a technological asset for Ecopetrol.  
+
+::: {.phrase}
+*(Project: Ecopetrol, National University, 2019)*
+:::
+:::
+
+<br>
+
+### Leadership & Project Management 
+
+<br>
+
+::: {.justify}
+
+- **Led large technical teams** with a pedagogical approach, achieving ONAC and IDEAM accreditations. 
+
+- **Established strategic plans with clear KPIs** to assess team performance and project outcomes. 
+
+- **Implemented quality controls** in both processes and characterization techniques, leveraging statistical analysis for process reliability. 
+
+- **Trained and mentored qualified personnel** with a focus on efficient and effective work practices. 
+
+- **Built Quality Management Systems** based on various standards (ISO 9000, ISO 17025:2017, GPL).  
+
+::: {.phrase}
+*(Projects: CAR, 2020; Enzipan Laboratories, 2014; ICA, 2012 and others)*
+:::
+:::
+
+<br>
+
+### Technical Achiviements 
+
+<br>
+
+::: {.justify}
+
+- **Implemented, standardized, and validated analytical techniques** for chromatography (GC, HPLC) across diverse detectors (MS, FID, TCD, Conductivity) and sample matrices, including organic tissues, catalysts, food, soil, and water. 
+
+- **Managed and interpreted data** from advanced analytical tools, including TEM tomography and XPS (synchrotron-based). 
+
+- **Actively contributed to the design and construction** of continuous-flow reactors. 
+
+- **Enhanced efficiency and productivity** using advanced Excel techniques, optimizing sampling plans and sample traceability at ICA, Colombia. 
+
+:::
+
+<br>
+
+### Training & Consulting 
+
+<br>
+
+::: {.justify}
+
+- **Delivered and certified long-term chromatography courses** for technical staff. 
+
+::: {.phrase}
+*(Project: Sophic-CAR, 2021)*
+:::
+
+- **Conducted advanced metrology training** covering uncertainty calculations, risk assessments, quality controls, accuracy, precision, and instrument resolution. 
+
+- **Served as an external consultant for various companies**, validating analytical techniques across microbiological and physicochemical fields, addressing diverse sample matrices. 
+
+::: {.phrase}
+*(Project: CAR, Enzipan, and others)*
+:::
+:::
+
+<br>
+
+## Professional Experience & Career Progression
+
+> Click on employment to check the role
+
+```{=html}
+<div class="accordion">
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Leader D2M2 project at the Dusselier group</strong> 
+            <span>Dusselier group, KU Leuven, Belgium</span>
+            <span class="date">September 2021 - Currently</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            I lead a research team on a project focused on carbon dioxide valorization through propane dehydrogenation for propylene production, under the supervision of Professor Michiel Dusselier. In this role, I guided researchers and mentored students, leading to the achievement of significant publications in esteemed journals. I also played a key role in ensuring that the project was managed efficiently, successfully meeting all proposed milestones
+        </p>
+        <p>
+            I directed researchers in experimental design, result validation, and the development of new materials, leveraging my expertise in physicochemical characterization and catalytic evaluation. My responsibilities included overseeing the design and continuous improvement of reactors used in the project. Additionally, I excelled in project management, collaborative problem-solving, and effective communication, ensuring the successful execution and advancement of our research objectives.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Laboratory Manager and Technical Direction in Chromatography</strong> 
+            <span>Regional Autonomous Corporation (CAR)</span>
+            <span class="date">November 2020 – September 2021</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            I served as the Laboratory Manager, overseeing a large team of more than 30 members. In this role, I was responsible for strategic planning, decision-making, and ensuring compliance with environmental regulations across various environmental matrices. Our operations adhered to the international standard ISO/IEC 17025. As the direct leader of the chromatography area, I oversaw gas and liquid chromatography analyses utilizing various detectors. I developed and optimized analytical techniques and managed quality assurance processes to maintain high standards of accuracy and reliability.
+        </p>
+        <p>
+            Additionally, I played a crucial role in consolidating processes for uncertainty estimation, risk assessment, and decision-making based on analytical results. These efforts were fundamental to achieving laboratory accreditation across various analytical techniques.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Founder and Administrative Director</strong> 
+            <span>Doctors and researcher Colombian Society – SoPhIC</span>
+            <span class="date">Juanuary 2019 – December 2021</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            As a founder of the Colombian Society of Doctors and Researchers (SoPhIC) and its Administrative Director, I designed and implemented streamlined administrative processes that improved operational efficiency. My work established a solid foundation for effective resource management and internal controls, contributing to the organization's sustainable growth and enhanced impact in the medical and research communities.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Independent Advisor</strong> 
+            <span>Freelance Consultant – ISO 17025 & GLP Implementation</span>
+            <span class="date">January 2013 - December 2020</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            As an independent advisor, I successfully guided several companies in the implementation of quality management systems based on ISO 17025 and Good Laboratory Practices (GLP). My work included conducting training sessions on analytical quality control, metrology, and the calculation of measurement uncertainty. I also performed internal audits in accordance with ISO 17025 requirements and assisted in the creation of essential documentation for the validation and accreditation of analytical techniques. Additionally, I supported laboratories throughout their accreditation process, ensuring compliance with regulatory standards and fostering continuous improvement in their operations.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Doctoral Researcher</strong> 
+            <span>Universidad Nacional de Colombia</span>
+            <span class="date">June 2014 - September 2020</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            During my doctoral studies at the National University of Colombia, I participated in a collaborative project between Ecopetrol and the university, focusing on the development of new materials for hydrocracking. In this role, I supervised master’s students, providing guidance in their research endeavors. My responsibilities included material characterization and catalytic evaluation. Our team’s efforts culminated in a patent for the production of a novel type of hierarchical zeolite.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Technical Director</strong> 
+            <span>Enzipan Laboratorios SA, Bogotá, Colombia</span>
+            <span class="date">February 2014 - June 2014</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            As part of a technical team consisting of 25 individuals, we successfully accredited the laboratory according to the ISO/IEC 17025:2009 standard. Under my leadership and through collaborative efforts within our team, we conducted thorough analysis validations and reengineered our quality system to meet the accreditation requirements.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Lead of Instrumental Analysis</strong> 
+            <span>High Complexity Instrumental Lab, Bogotá, Colombia</span>
+            <span class="date">March 2012 - September 2013</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            As the lead of the Instrumental Analysis Area in a high-complexity laboratory, I was responsible for developing analytical techniques, primarily using HPLC and GC, across various matrices. These techniques supported both research initiatives and provided analytical services to external clients at the university. My role involved managing advanced instrumentation and ensuring the delivery of high-quality results for both academic research and third-party analyses.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Area leader</strong> 
+            <span>Instituto Colombiano Agropecuario - ICA</span>
+            <span class="date">March 2003 - April 2012</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            As the Technical Leader of the Physicochemical Area, my responsibilities included conducting chemical characterizations of animal feed in compliance with Colombian regulations. In addition, I oversaw the contaminants analysis, where I performed chromatographic analyses to detect residual fungal toxins in food products.
+        </p>
+    </div>
+    <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Comercial advisor</strong> 
+            <span>Quimicontrol S.A.S, Bogotá, Colombia</span>
+            <span class="date">April 2008 - January 2009</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            Successfully advised clients on selecting chromatography products and large-scale filtration solutions, driving significant sales growth. Developed tailored technical solutions for industrial applications, enhancing operational efficiency for various clients
+        </p>
+    </div>
+</div>
+
+<script>
+  var acc = document.getElementsByClassName("accordion-button");
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+</script>
+```
+
+## Private Clients Advisors
+
+:::{.justify}
+- 2015: Biogenuss Technical, quality system implementation under BPL and ISO 17025:2005 
+- 2015: Laboratorio Nulab ltda, Validation & Accreditation / Microbiological & Physicochemical techniques.  
+- 2015: Universidad Nacional Colombia, Intern auditor ISO 17025:2005, technical expert. 
+- 2015: Biotrends, validation of analytical techniques. 
+- 2014: Universidad Nacional Colombia, Intern auditor ISO 17025:2005, technical expert
+:::

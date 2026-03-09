@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Jose Alirio Mendoza Mesa"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Summary
+      - href: education.qmd
+        text: Education
+      - href: experience.qmd
+        text: Research & Industry Experience
+      - href: publications.qmd
+        text: Publications
+      - href: interest.qmd
+        text: Interest
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: "mailto:jose.alirio.mm@gmail.com"  
+        aria-label: E-mail
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jose-alirio-mendoza-mesa-3b3798239
+        aria-label: LinkedIn
+      - icon: twitter
+        href: https://x.com/alirio_mm
+        aria-label: Twitter
+  
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+
