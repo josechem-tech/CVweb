@@ -114,11 +114,23 @@ toc: true
 
 ```{=html}
 <div class="accordion">
+       <button class="accordion-button">
+        <div class="accordion-text">
+            <strong>Voluntary researcher at the Dusselier group</strong> 
+            <span>Dusselier group, KU Leuven, Belgium</span>
+            <span class="date">March 2026 - Currently working</span>
+        </div>
+    </button>
+    <div class="accordion-content">
+        <p>
+            I follow some research lines and finish the co-supervision of PhD students. Chemiometrics advisor in advanced chemistry. 
+        </p>
+    </div>
     <button class="accordion-button">
         <div class="accordion-text">
             <strong>Leader D2M2 project at the Dusselier group</strong> 
             <span>Dusselier group, KU Leuven, Belgium</span>
-            <span class="date">September 2021 - Currently</span>
+            <span class="date">September 2021 - February 2026</span>
         </div>
     </button>
     <div class="accordion-content">
