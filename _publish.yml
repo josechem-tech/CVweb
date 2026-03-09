@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: cf293547-8665-4238-87ff-36147d53c2cf
+      url: https://cvweb2.netlify.app
